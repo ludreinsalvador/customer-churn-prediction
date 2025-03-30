@@ -21,4 +21,5 @@ This repository aims to predict customer churn based on the lack of transactions
   - **[salvador_week4.ipynb](/notebooks/salvador_week4.ipynb)**: Machine Learning Model Engineering
   - **[salvador_week5.ipynb](/notebooks/salvador_week5.ipynb)**: ML Model Evaluation
   - **[salvador_week6.ipynb](/notebooks/salvador_week6.ipynb)**: Model Deployment
+  - **[salvador_week7.ipynb](/notebooks/salvador_week7.ipynb)**: Model Monitoring and Maintenance
 

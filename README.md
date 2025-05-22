@@ -1,4 +1,4 @@
-# Churn Prediction (Machine Learning)
+# Customer Churn Prediction (Machine Learning)
 **Instructor:** Mr. Lorenzo Sta. Maria, Data Scientist at Globe Telecom
 
 ---
